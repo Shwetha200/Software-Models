@@ -1,0 +1,37 @@
+<style>
+        body {
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+
+        h4 {
+            color: mediumvioletred;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        ul {
+            text-align: left; /* Align the list items to the left */
+        }
+        h3{
+            color: blue;
+        }
+button{
+    font-size: 25px;
+}
+h2 {
+            color: red;
+        }
+h1 {
+            color: blueviolet;
+        }
+      
+      
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
